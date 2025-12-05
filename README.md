@@ -30,9 +30,12 @@ TP_API/
 ├── 📁 templates/
 │  
 │   ├── base.html                  → Template parent
-│   ├── login.html                 → Formulaire de connexion
-│   ├── register.html              → Formulaire d’inscription
-│   └── home.html                  → Page d'accueil
+│   
+    ├── login.html                 → Formulaire de connexion
+│   
+    ├── register.html              → Formulaire d’inscription
+│   
+    └── home.html                  → Page d'accueil
 │
 ├── flask_app.py                   → Application Flask principale
 └── README.md                      → Documentation
@@ -172,6 +175,7 @@ Meddy Garcia   ->        Création de la base MySQL, connexion Flask–MySQL, d�
 Amos Clegbaza  ->        Création de la base MySQL, connexion Flask–MySQL, développement des routes, intégration HTML, documentation.
 Bathy Voguie   ->        Création de la table film en MySQL et insertion de données, intégration HTML, ajout des routes associées, documentation.  
 Mathieu Ponnou  ->       Développement complet de la version SQLite, connexion Flask–SQLite, création des routes, intégration HTML, documentation et rédaction du README. 
+
 
 
 
