@@ -174,7 +174,8 @@ Amos Clegbaza  ->        Création de la base MySQL, connexion Flask–MySQL, d�
 
 Bathy Voguie   ->        Création de la table film en MySQL et insertion de données, intégration HTML, ajout des routes associées, documentation.  
 
-Mathieu Ponnou  ->       Développement complet de la version SQLite, connexion Flask–SQLite, création des routes, intégration HTML, documentation et rédaction du README. 
+Mathieu Ponnou  ->       Développement complet de la version SQLite, connexion Flask–SQLite, développement des routes, intégration HTML, documentation et rédaction du README. 
+
 
 
 
