@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Film Search{% endblock %}
+
+{% block content %}
+<h1>Film Search</h1>
+
+<form method="POST">
+    {{ form.hidden_tag() }}
+    {{ form.film_title }}
+    {{ form.submit }}
+</form>
+
+<h2>Affiches de films</h2>
+<ul>
+{% for poster in movies_list %}
+    <li>
+        <img src="https://image.tmdb.org/t/p/w500{{ poster }}" width="150">
+    </li>
+{% endfor %}
+</ul>
+
+{% endblock %}
