@@ -139,22 +139,27 @@ Ce projet s'appuie sur plusieurs ressources pédagogiques et documentations offi
 🔹 Flask & Authentification
 
 Tutoriel complet Flask – découverte et logique d’application
+
 👉 https://www.youtube.com/watch?v=42OII6XQr2Q
 
 Série d'introduction à Flask (routes, templates, formulaires, sessions)
+
 👉 https://www.youtube.com/watch?v=Ihp_cG7c2Rk&list=PLV1TsfPiCx8PXHsHeJKvSSC8zfi4Kvcfs
 
 🔹 API TMDB (recherche de films)
 
 Documentation officielle de l'API TheMovieDB
+
 👉 https://developer.themoviedb.org/
 
 🔹 SQL & Requêtes MySQL
 Référence SQL claire et accessible
+
 👉 https://sql.sh/
 
 🔹 MySQL / Python (connexion, gestion d’erreurs, requêtes)
 Tutoriel MySQL + Python
+
 👉 https://www.youtube.com/watch?v=u96rVINbAUI
 
 
@@ -164,5 +169,6 @@ Meddy Garcia   ->        Création de la base MySQL, connexion Flask–MySQL, d�
 Amos Clegbaza  ->        Création de la base MySQL, connexion Flask–MySQL, développement des routes, intégration HTML, documentation.
 Bathy Voguie   ->        Création de la table film en MySQL et insertion de données, intégration HTML, ajout des routes associées, documentation.  
 Mathieu Ponnou  ->       Développement complet de la version SQLite, connexion Flask–SQLite, création des routes, intégration HTML, documentation et rédaction du README. 
+
 
 
